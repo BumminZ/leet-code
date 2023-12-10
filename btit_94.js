@@ -23,6 +23,7 @@ var inorderTraversal = function (root) {
     response.push(root.val);
     root = root.right;
   }
+  return response;
 };
 
 // another approach
