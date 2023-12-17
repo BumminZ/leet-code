@@ -6,7 +6,7 @@ Beginner leet code solution for JS and Rust.
 
 ## Solution
 
-Each solution is under respective branches.
+Each solution is under respective branches or folders.
 
 ### Javascript Solution
 
